@@ -1,0 +1,12 @@
+.newtodo{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 4px 5px gray;
+}
+form label{
+    color: aliceblue;
+}
+small {
+    color: white;
+}

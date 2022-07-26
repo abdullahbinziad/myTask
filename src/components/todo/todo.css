@@ -1,0 +1,13 @@
+.todo{
+    background-color: #5D5FEF;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+  column-gap: 1em;
+}
